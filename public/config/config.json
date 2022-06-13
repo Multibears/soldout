@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBd8363cB7CdCC844cA93cAFf69275dEc76860E09",
+  "SCAN_LINK": "https://polygonscan.com/token/0xBd8363cB7CdCC844cA93cAFf69275dEc76860E09",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Multibears Above",
+  "SYMBOL": "MBA",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 885000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/multibearsabove",
+  "SHOW_BACKGROUND": true
+}
